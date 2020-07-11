@@ -27,4 +27,8 @@ https://mchisem.github.io/Weather-or-Not/
 
 ## Contributors
 
+-  [Zach Auerbach](https://github.com/ZachBach)
+-  [Maya Chisem](https://github.com/mchisem)
 -  [Jorge Morales](https://github.com/jmorales113)
+-  [Nicholas Jaquez](https://github.com/nickrayj45)
+
